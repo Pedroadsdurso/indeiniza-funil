@@ -1,0 +1,1 @@
+window.__ENV = {"NEXT_PUBLIC_SMTP_FROM":"'Suporte' <clientes@christtian.dev>","NEXT_PUBLIC_VIEWER_URL":"https://app.consultaorg.digital"};
